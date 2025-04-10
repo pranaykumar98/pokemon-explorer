@@ -18,6 +18,7 @@ A responsive web app to explore Pokémons using Next.js and Tailwind CSS.
 
 ## Run Locally
 
+```bash
 git clone https://github.com/pranaykumar98/pokemon-explorer.git
 cd pokemon-explorer
 npm install
